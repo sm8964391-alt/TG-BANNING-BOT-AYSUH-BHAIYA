@@ -1,0 +1,11 @@
+# Backend dependencies
+pyrogram==2.0.106
+tgcrypto==1.2.5  # Required for Pyrogram
+telethon==1.28.5
+sqlite3==0.0.1  # For database
+kivy==2.2.1  # For UI
+kivymd==1.1.1  # Material Design components for Kivy
+pillow==10.0.0  # For image processing
+requests==2.31.0  # For API requests
+python-dotenv==1.0.0  # For environment variables
+loguru==0.7.0  # For better logging
